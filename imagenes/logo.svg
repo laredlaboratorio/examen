@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_39">
+   <rect stroke="#000000" id="svg_2" height="24.256412" width="326.816314" y="150.974358" x="67.000021" stroke-width="5" fill="#000000"/>
+   <path stroke="#000000" id="svg_6" d="m78.646023,84.085466l117.915918,0l0,163.914539l-117.915918,0l0,-163.914539z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#ffffff"/>
+   <text stroke="#000000" transform="matrix(0.7278760288740062,-0.00008903134545151851,0.00008816328093098213,0.7350427693734787,-4.353311153485535,-15.851504792417103) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_1" y="251" x="324" stroke-width="0" fill="#007fff">JUAN PABLO ENRIQUEZ MARCILLO</text>
+   <line stroke="#ff0000" id="svg_23" y2="183.31624" x2="395.999974" y1="183.31624" x1="213.303089" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="none"/>
+   <line stroke="#ff0000" id="svg_24" y2="76.735038" x2="68.455764" y1="75.999995" x1="192.92256" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="none"/>
+   <line stroke="#ff0000" id="svg_25" y2="145.82906" x2="70.639386" y1="75.999996" x1="70.639386" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="none"/>
+   <ellipse stroke="#000000" ry="6.247863" rx="6.186946" id="svg_30" cy="202.059831" cx="329.399317" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#000000"/>
+   <ellipse stroke="#000000" id="svg_33" ry="6.247863" rx="6.186946" cy="202.059831" cx="343.956837" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#000000"/>
+   <ellipse stroke="#000000" id="svg_34" ry="6.247863" rx="6.186946" cy="202.059831" cx="358.514358" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#000000"/>
+   <ellipse stroke="#000000" id="svg_35" ry="6.247863" rx="6.186946" cy="202.059831" cx="373.071879" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#000000"/>
+   <ellipse stroke="#000000" id="svg_36" ry="6.247863" rx="6.186946" cy="202.059831" cx="387.629399" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#000000"/>
+   <ellipse stroke="#000000" id="svg_38" ry="4.777778" rx="4.731194" cy="202.059831" cx="329.399317" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffffff"/>
+  </g>
+ </g>
+</svg>
